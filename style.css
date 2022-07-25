@@ -2,6 +2,20 @@
   margin: 0;
   padding: 0;
 }
+header {
+  height: 20%;
+  width: 100vw;
+  background-color: black;
+  color: aliceblue;
+  font-family: sans-serif;
+}
+
+nav ul li nav ul li {
+  display: flex;
+  padding: 10px;
+  text-decoration: solid;
+}
+
 p {
   color: yellow;
 }
