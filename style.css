@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+p {
+  color: yellow;
+}
+h1,
+h2 {
+  color: royalblue;
+}
