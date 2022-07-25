@@ -9,3 +9,16 @@ h1,
 h2 {
   color: royalblue;
 }
+
+p {
+  font-family: sans-serif;
+}
+
+.box {
+  height: 100px;
+  width: 70px;
+  align-items: center;
+  text-align: center;
+  background-color: aqua;
+  color: white;
+}
